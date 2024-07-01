@@ -1,0 +1,30 @@
+5061001
+Fan
+High
+2500 tk
+120 kmph
+
+5061002
+Fan
+5061003
+2500 tk
+120 kmph
+
+5061003
+Fan
+Good
+2500 tk
+123 kmph
+
+5061004
+Fan
+Good
+6000 tk
+150 kmph
+
+5061005
+Fan
+Mediem
+4500 tk
+125 kmph
+

@@ -1,0 +1,39 @@
+5051001
+Freez
+High
+Angle
+2500 tk
+-5
+5051002
+Freez
+High
+good
+2500 tk
+-5
+5051006
+High
+Good
+25000 tk
+-5
+
+5051008
+Freez
+High
+Squre
+25000 tk
+-5
+
+5051004
+Freez
+Angle
+Categaory-2
+50000 tk
+-5
+
+5051009
+ghfhfh
+hfhfhfh
+gjhgfjgj
+kghkghjk
+fjhfgjyjugj
+
